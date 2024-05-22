@@ -3,11 +3,13 @@
 Idoso constrói casa no Alaska!
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Breve descrição do seu projeto.
+
 Esse projeto é um dos vídeos que estou fazendo ultimamente. Conta a história de Steve, um Alasquiano que construiu uma casa no Alaska mesmo já tendo mais de 50 anos de IDADE! No momento estou em produção de outros já que também sou editor audio-visual, e como ultilizei IA para criar esse vídeo, decidi compartilhar com vocês.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Liste as IAs Generativas e outras ferramentas usadas.
+
 Inteligencias Artificial da Capcut, Microsoft Copilot.
 
 ## 🧐 Processo de Criação
